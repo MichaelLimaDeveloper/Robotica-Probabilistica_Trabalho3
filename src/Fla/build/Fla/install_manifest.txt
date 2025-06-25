@@ -1,0 +1,23 @@
+/home/laelt/27_05_25.ws/src/Fla/install/Fla/share/Fla/launch/__pycache__/launch.cpython-310.pyc
+/home/laelt/27_05_25.ws/src/Fla/install/Fla/share/Fla/launch/launch.py
+/home/laelt/27_05_25.ws/src/Fla/install/Fla/share/Fla/launch/gz_sim.launch.py
+/home/laelt/27_05_25.ws/src/Fla/install/Fla/share/Fla/Model/building_robot.sdf
+/home/laelt/27_05_25.ws/src/Fla/install/Fla/share/Fla/Model/building_robot(N FUNCINA).sdf
+/home/laelt/27_05_25.ws/src/Fla/install/Fla/share/Fla/Model/building_robot(camera_n_funciona).sdf
+/home/laelt/27_05_25.ws/src/Fla/install/Fla/share/Fla/Model/building_robot (copy).sdf
+/home/laelt/27_05_25.ws/src/Fla/install/Fla/lib/Fla/cefet
+/home/laelt/27_05_25.ws/src/Fla/install/Fla/share/ament_index/resource_index/package_run_dependencies/Fla
+/home/laelt/27_05_25.ws/src/Fla/install/Fla/share/ament_index/resource_index/parent_prefix_path/Fla
+/home/laelt/27_05_25.ws/src/Fla/install/Fla/share/Fla/environment/ament_prefix_path.sh
+/home/laelt/27_05_25.ws/src/Fla/install/Fla/share/Fla/environment/ament_prefix_path.dsv
+/home/laelt/27_05_25.ws/src/Fla/install/Fla/share/Fla/environment/path.sh
+/home/laelt/27_05_25.ws/src/Fla/install/Fla/share/Fla/environment/path.dsv
+/home/laelt/27_05_25.ws/src/Fla/install/Fla/share/Fla/local_setup.bash
+/home/laelt/27_05_25.ws/src/Fla/install/Fla/share/Fla/local_setup.sh
+/home/laelt/27_05_25.ws/src/Fla/install/Fla/share/Fla/local_setup.zsh
+/home/laelt/27_05_25.ws/src/Fla/install/Fla/share/Fla/local_setup.dsv
+/home/laelt/27_05_25.ws/src/Fla/install/Fla/share/Fla/package.dsv
+/home/laelt/27_05_25.ws/src/Fla/install/Fla/share/ament_index/resource_index/packages/Fla
+/home/laelt/27_05_25.ws/src/Fla/install/Fla/share/Fla/cmake/FlaConfig.cmake
+/home/laelt/27_05_25.ws/src/Fla/install/Fla/share/Fla/cmake/FlaConfig-version.cmake
+/home/laelt/27_05_25.ws/src/Fla/install/Fla/share/Fla/package.xml

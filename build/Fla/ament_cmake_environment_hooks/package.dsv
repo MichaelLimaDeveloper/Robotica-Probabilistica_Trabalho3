@@ -1,0 +1,4 @@
+source;share/Fla/local_setup.bash
+source;share/Fla/local_setup.dsv
+source;share/Fla/local_setup.sh
+source;share/Fla/local_setup.zsh

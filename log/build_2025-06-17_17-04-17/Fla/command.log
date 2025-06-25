@@ -1,0 +1,4 @@
+Invoking command in '/home/laelt/27_05_25.ws/build/Fla': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/laelt/testelucas_ws/install/ros2_gazeboworld:/opt/ros/humble /usr/bin/cmake --build /home/laelt/27_05_25.ws/build/Fla -- -j4 -l4
+Invoked command in '/home/laelt/27_05_25.ws/build/Fla' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/laelt/testelucas_ws/install/ros2_gazeboworld:/opt/ros/humble /usr/bin/cmake --build /home/laelt/27_05_25.ws/build/Fla -- -j4 -l4
+Invoking command in '/home/laelt/27_05_25.ws/build/Fla': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/laelt/testelucas_ws/install/ros2_gazeboworld:/opt/ros/humble /usr/bin/cmake --install /home/laelt/27_05_25.ws/build/Fla
+Invoked command in '/home/laelt/27_05_25.ws/build/Fla' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/laelt/testelucas_ws/install/ros2_gazeboworld:/opt/ros/humble /usr/bin/cmake --install /home/laelt/27_05_25.ws/build/Fla

@@ -1,0 +1,32 @@
+[0.013s] Invoking command in '/home/laelt/27_05_25.ws/build/Fla': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/laelt/27_05_25.ws/build/Fla -- -j4 -l4
+[0.068s] [100%] Built target cefet
+[0.080s] Invoked command in '/home/laelt/27_05_25.ws/build/Fla' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/laelt/27_05_25.ws/build/Fla -- -j4 -l4
+[0.092s] Invoking command in '/home/laelt/27_05_25.ws/build/Fla': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/laelt/27_05_25.ws/build/Fla
+[0.100s] -- Install configuration: ""
+[0.100s] -- Up-to-date: /home/laelt/27_05_25.ws/install/Fla/share/Fla/launch
+[0.100s] -- Up-to-date: /home/laelt/27_05_25.ws/install/Fla/share/Fla/launch/__pycache__
+[0.100s] -- Installing: /home/laelt/27_05_25.ws/install/Fla/share/Fla/launch/__pycache__/launch.cpython-310.pyc
+[0.100s] -- Up-to-date: /home/laelt/27_05_25.ws/install/Fla/share/Fla/launch/launch.py
+[0.101s] -- Up-to-date: /home/laelt/27_05_25.ws/install/Fla/share/Fla/launch/gz_sim.launch.py
+[0.101s] -- Up-to-date: /home/laelt/27_05_25.ws/install/Fla/share/Fla/Model
+[0.101s] -- Installing: /home/laelt/27_05_25.ws/install/Fla/share/Fla/Model/building_robot.sdf
+[0.101s] -- Up-to-date: /home/laelt/27_05_25.ws/install/Fla/share/Fla/Model/building_robot(N FUNCINA).sdf
+[0.101s] -- Up-to-date: /home/laelt/27_05_25.ws/install/Fla/share/Fla/Model/building_robot(camera_n_funciona).sdf
+[0.101s] -- Up-to-date: /home/laelt/27_05_25.ws/install/Fla/share/Fla/Model/building_robot (copy).sdf
+[0.101s] -- Up-to-date: /home/laelt/27_05_25.ws/install/Fla/lib/Fla/cefet
+[0.101s] -- Up-to-date: /home/laelt/27_05_25.ws/install/Fla/share/ament_index/resource_index/package_run_dependencies/Fla
+[0.101s] -- Up-to-date: /home/laelt/27_05_25.ws/install/Fla/share/ament_index/resource_index/parent_prefix_path/Fla
+[0.101s] -- Up-to-date: /home/laelt/27_05_25.ws/install/Fla/share/Fla/environment/ament_prefix_path.sh
+[0.101s] -- Up-to-date: /home/laelt/27_05_25.ws/install/Fla/share/Fla/environment/ament_prefix_path.dsv
+[0.102s] -- Up-to-date: /home/laelt/27_05_25.ws/install/Fla/share/Fla/environment/path.sh
+[0.102s] -- Up-to-date: /home/laelt/27_05_25.ws/install/Fla/share/Fla/environment/path.dsv
+[0.102s] -- Up-to-date: /home/laelt/27_05_25.ws/install/Fla/share/Fla/local_setup.bash
+[0.102s] -- Up-to-date: /home/laelt/27_05_25.ws/install/Fla/share/Fla/local_setup.sh
+[0.102s] -- Up-to-date: /home/laelt/27_05_25.ws/install/Fla/share/Fla/local_setup.zsh
+[0.102s] -- Up-to-date: /home/laelt/27_05_25.ws/install/Fla/share/Fla/local_setup.dsv
+[0.102s] -- Installing: /home/laelt/27_05_25.ws/install/Fla/share/Fla/package.dsv
+[0.102s] -- Up-to-date: /home/laelt/27_05_25.ws/install/Fla/share/ament_index/resource_index/packages/Fla
+[0.102s] -- Up-to-date: /home/laelt/27_05_25.ws/install/Fla/share/Fla/cmake/FlaConfig.cmake
+[0.102s] -- Up-to-date: /home/laelt/27_05_25.ws/install/Fla/share/Fla/cmake/FlaConfig-version.cmake
+[0.102s] -- Up-to-date: /home/laelt/27_05_25.ws/install/Fla/share/Fla/package.xml
+[0.104s] Invoked command in '/home/laelt/27_05_25.ws/build/Fla' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/laelt/27_05_25.ws/build/Fla

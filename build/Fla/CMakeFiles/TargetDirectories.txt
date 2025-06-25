@@ -1,0 +1,10 @@
+/home/laelt/27_05_25.ws/build/Fla/CMakeFiles/uninstall.dir
+/home/laelt/27_05_25.ws/build/Fla/CMakeFiles/Fla_uninstall.dir
+/home/laelt/27_05_25.ws/build/Fla/CMakeFiles/cefet.dir
+/home/laelt/27_05_25.ws/build/Fla/CMakeFiles/test.dir
+/home/laelt/27_05_25.ws/build/Fla/CMakeFiles/edit_cache.dir
+/home/laelt/27_05_25.ws/build/Fla/CMakeFiles/rebuild_cache.dir
+/home/laelt/27_05_25.ws/build/Fla/CMakeFiles/list_install_components.dir
+/home/laelt/27_05_25.ws/build/Fla/CMakeFiles/install.dir
+/home/laelt/27_05_25.ws/build/Fla/CMakeFiles/install/local.dir
+/home/laelt/27_05_25.ws/build/Fla/CMakeFiles/install/strip.dir
