@@ -100,12 +100,12 @@ Este projeto está disponível sob a licença [MIT](LICENSE). Fique à vontade p
 
 Em caso de dúvidas, sugestões ou contribuições:
 
-- **Michael Lima** – michael@example.com  
-- **Arthur Fellini** – arthur@example.com  
-- **Pedro Henrique Themoteo** – pedro@example.com  
+- **Michael Lima** – https://github.com/MichaelLimaDeveloper
+- **Arthur Fellini** – https://github.com/kifelixreal 
+- **Pedro Henrique Themoteo** – https://github.com/bomdiapredo
 
 ---
 
 ## ⭐ Agradecimentos
 
-Agradecemos ao professor e colegas da disciplina pela orientação e feedback construtivo. Bom estudo! 🚀
+Agradecemos ao professores Johann Steffanno Jerônimo da Costa Caniato Amorim, Lucas Costa de Souza e Milena Faria Pinto e colegas da disciplina pela orientação e feedback construtivo. Bom estudo! 🚀
