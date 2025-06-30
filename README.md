@@ -9,7 +9,7 @@
 
 ## 📘 Sobre este repositório
 
-Este repositório contém o **Trabalho 3** da disciplina de **Robótica Probabilística**, realizado pelos alunos acima. O objetivo principal é disponibilizar todo o conteúdo desenvolvido em **ROS 2** e **Gazebo** para consulta, aprendizado e compartilhamento.
+Este repositório contém o **Trabalho 3** da disciplina de **Robótica Probabilística**, realizado pelos alunos acima. O objetivo principal é disponibilizar todo o conteúdo desenvolvido em **ROS 2**, **rviz2** e **Gazebo** e implementação do A* no projeto junto com um algoritmo de geração de mundo para consulta, aprendizado e compartilhamento.
 
 ---
 
@@ -84,8 +84,8 @@ Este repositório contém o **Trabalho 3** da disciplina de **Robótica Probabil
 
 Este trabalho baseia‑se em:
 
-- Documentação ROS 2  
-- Tutoriais do Gazebo  
+- Documentação ROS 2 - https://docs.ros.org/en/humble/index.html
+- Tutoriais do Gazebo - https://gazebosim.org/docs/latest/getstarted/
 - Artigos clássicos de Robótica Probabilística (filtros de Kalman, MCL, etc.)
 
 ---
